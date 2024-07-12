@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning,flutter**
 
-- 👨‍💻 All of my projects are available at [Henvitha26](Henvitha26)
-
 - 💬 Ask me about **Machine Learning,Python,Inferential Statistics,data Analysis**
 
 - 📫 How to reach me **punuruharshitha734@gmail.com**
