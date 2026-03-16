@@ -62,10 +62,4 @@ Hi, I'm **Harshitha**, a passionate **Full Stack Developer** with experience in 
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
 
----
-
-⭐ Always eager to learn new technologies and build impactful software solutions.
